@@ -1,0 +1,989 @@
+<!DOCTYPE html>
+<html lang="en" class="has-hover" data-reactroot="">
+    <head>
+        <title>How to help a friend | FRANK</title>
+        <meta charSet="utf-8"/>
+        <meta name="description" content="If you think your friend has a problem with drugs, get advice and support on how you can help them. Find out more online."/>
+        <meta content="width=device-width,initial-scale=1.0" name="viewport"/>
+        <meta content="on" http-equiv="cleartype"/>
+        <meta name="format-detection" content="telephone=no"/>
+        <link rel="canonical" href="https://www.talktofrank.com/get-help/worried-about-a-friend"/>
+        <meta property="twitter:title" content="Worried about a friend? | FRANK"/>
+        <meta property="twitter:description" content="If you think your friend has a problem with drugs, get advice and support on how you can help them. Find out more online. | FRANK"/>
+        <meta property="og:title" content="Worried about a friend? | FRANK"/>
+        <meta property="og:description" content="If you think your friend has a problem with drugs, get advice and support on how you can help them. Find out more online. | FRANK"/>
+        <meta property="og:url" content="https://www.talktofrank.com/get-help/worried-about-a-friend"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="theme-color" content="#FFFFFF"/>
+        <link rel="manifest" href="/ui/manifest.json"/>
+        <link rel="stylesheet" type="text/css" href="/ui/css/main.css?v=1553769803062"/>
+        <script>
+            window.addEventListener('touchstart', function onFirstTouch() {
+                document.documentElement.classList.remove('has-hover')
+                window.removeEventListener('touchstart', onFirstTouch, false)
+            }, false)
+        </script>
+    </head>
+    <body>
+        <a id="skip" class="skip" href="#main" tabindex="0">Skip to main content</a>
+        <div id="app" class="flex-wrapper">
+            <header class="masthead">
+                <span class="visually-hidden">Talk to Frank - Honest information about drugs</span>
+                <div class="masthead__inner">
+                    <section class="navigation-wrapper">
+                        <button aria-hidden="true" aria-controls="navigation" aria-haspopup="true" aria-expanded="false" aria-label="Show navigation" class="btn navbar-toggler">Menu</button>
+                        <div class="logo">
+                            <a href="/" class="logo__link" title="Homepage">
+                                <img src="/ui/svg/logo-frank--alt.svg" alt="" role="presentation"/>
+                            </a>
+                        </div>
+                        <nav class="navbar navbar-primary navbar-expand-md d-none">
+                            <ul class="navbar-nav" aria-hidden="false" aria-label="Main Menu" role="menubar">
+                                <li class="nav-item hidden--md-up">
+                                    <a class="nav-link" aria-haspopup="false" href="/">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" aria-haspopup="false" href="/drugs-a-z">Drugs A-Z</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" aria-haspopup="false" href="/news">News</a>
+                                </li>
+                                <li class="nav-item nav-item--has-dropdown">
+                                    <a class="nav-link nav-item--has-dropdown" aria-expanded="false" aria-haspopup="true" href="/get-help">Help and advice</a>
+                                    <ul class="navbar-dropdown list-unstyled" role="menu" aria-hidden="true">
+                                        <li class="nav-item">
+                                            <a class="nav-link" aria-haspopup="false" href="/get-help/what-to-do-in-an-emergency">What to do in an emergency</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" aria-haspopup="false" href="/get-help/dealing-with-peer-pressure">10 ways to deal with peer pressure</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" aria-haspopup="false" href="/get-help/worried-about-a-friend">Worried about a friend?</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" aria-haspopup="false" href="/get-help/worried-about-a-child">Worried about a child?</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" aria-haspopup="false" href="/get-help/what-is-drug-treatment-like">What is drug treatment like?</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" aria-haspopup="false" href="/get-help/find-support-near-you">Find a support centre</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" aria-haspopup="false" href="/contact-frank">Contact</a>
+                                </li>
+                                <li class="nav-item hidden--md-up">
+                                    <a class="nav-link" aria-haspopup="false" href="tel:03001236600">Call: 0300 1236600</a>
+                                </li>
+                            </ul>
+                        </nav>
+                    </section>
+                    <div class="button-group button-group--static">
+                        <button class="btn btn--flat btn--small">
+                            <span class="hidden--md">Search </span>
+                            <span>
+                                <img src="/ui/svg/magnifying.svg" alt="" role="presentation"/>
+                                <span class="visually-hidden">search</span>
+                            </span>
+                        </button>
+                        <a href="tel:03001236600" aria-label="Call Frank on 0300 1236600" class="btn btn--link btn--small hidden--rg link-text">
+                            <span class="nav-link">0300 1236600</span>
+                        </a>
+                    </div>
+                </div>
+            </header>
+            <main class="main main--full-width " id="main" tabindex="-1">
+                <section class="accent accent--shallow">
+                    <div class="wrapper ">
+                        <h1 class="page-title">Worried about a friend?</h1>
+                    </div>
+                </section>
+                <section class="accent accent--shallow">
+                    <div class="wrapper ">
+                        <div class="row">
+                            <div class="col-12 col-md-8 offset-md-3">
+                                <div class="long-form lead">
+                                    <p>Drugs can be a hard subject to discuss, especially if you think your friend or relative has a problem. </p>
+                                    <p>Try to stay open-minded and remember that, with the right help and support, most people overcome their use before any serious harm is caused. Also, even if you do offer support, they might not change their behaviour. </p>
+                                    <p>
+                                        You or your friend can call FRANK anytime on <a href="tel:0300 123 6600">0300 123 6600</a>
+                                        for confidential advice.
+                                    </p>
+                                </div>
+                                <div class="long-form ">
+                                    <p></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section class="section section--has-toggle">
+                    <div class="collapsible collapsible--chevron collapsible--first" id="why-do-people-do-drugs">
+                        <div class="wrapper">
+                            <div class="row">
+                                <div class="col-12 col-md-7 offset-md-3 bordered">
+                                    <h2 class="h4">
+                                        <a role="button" href="#why-do-people-do-drugs" data-target="#why-do-people-do-drugs" class="collapsible__trigger" aria-expanded="false" aria-controls="section-why-do-people-do-drugs">Why do people do drugs?</a>
+                                    </h2>
+                                    <div class="collapsible__content" aria-hidden="true" id="section-why-do-people-do-drugs">
+                                        <div class="long-form ">
+                                            <p>People take drugs for lots of reasons. Having a better idea of why your friend takes drugs will help you when you talk to them.</p>
+                                            <h3 id="to-socialise">To socialise</h3>
+                                            <p>Some people take drugs occasionally to have fun, socialise and relax. Taking drugs might not become a problem for these people, and they’ll probably stop when they’re ready to. You can still remind your friend that some drugs are illegal and can affect their physical and mental health, especially if they’re still growing. </p>
+                                            <h3 id="to-escape-">To ‘escape’</h3>
+                                            <p>Some people use drugs to escape difficult feelings that they &#39;re struggling to cope with. They might be depressed, anxious or insecure, and they might think the drugs are helping them - when they’re actually making things worse. If you think this is the case, talk calmly to your friend and look for ways to help them think about why they &#39;re using drugs and ways they can manage without them. If necessary, suggest that they look for professional help. </p>
+                                            <h3 id="to-fit-in">To fit in</h3>
+                                            <p>Some people take drugs to fit in, or because they’re under pressure to do so by their friends. You could offer to do things with them that don’t involve using drugs.</p>
+                                            <h3 id="to-experiment">To experiment</h3>
+                                            <p>Some people are just curious. They might try drugs once or twice to see what it’s like and then decide to leave it. Remember that most people who try drugs don’t continue using them.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section class="section section--has-toggle">
+                    <div class="collapsible collapsible--chevron collapsible--first" id="how-to-talk-to-your-friend-about-their-drug-use">
+                        <div class="wrapper">
+                            <div class="row">
+                                <div class="col-12 col-md-7 offset-md-3 bordered">
+                                    <h2 class="h4">
+                                        <a role="button" href="#how-to-talk-to-your-friend-about-their-drug-use" data-target="#how-to-talk-to-your-friend-about-their-drug-use" class="collapsible__trigger" aria-expanded="false" aria-controls="section-how-to-talk-to-your-friend-about-their-drug-use">How to talk to your friend about their drug use</a>
+                                    </h2>
+                                    <div class="collapsible__content" aria-hidden="true" id="section-how-to-talk-to-your-friend-about-their-drug-use">
+                                        <div class="long-form ">
+                                            <p>Drugs can be a hard subject to discuss, especially if you think your friend has a problem. There’s no right or wrong way to talk about drugs, but there are some general guidelines you can follow to make things easier.</p>
+                                            <p>Do speak to your friend:</p>
+                                            <ul>
+                                                <li>when you’re both sober and not on drugs</li>
+                                                <li>somewhere private and familiar (your friend might become emotional) </li>
+                                                <li>when you have plenty of time – it’s not a conversation you can rush</li>
+                                                <li>more than once – you may need to have several conversations </li>
+                                            </ul>
+                                            <p>Don’t speak to your friend in a way that:</p>
+                                            <ul>
+                                                <li>is judgmental or critical – it won’t help</li>
+                                                <li>doesn’t give them time to talk – try to speak less and listen more</li>
+                                                <li>assumes superiority – don’t act like you know better (even if that’s what you think)</li>
+                                            </ul>
+                                            <p>
+                                                <strong>
+                                                    Remember that you or your friend can call FRANK anytime on <a href="tel:0300 123 6600">0300 123 6600</a>
+                                                    for confidential advice.
+                                                </strong>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section class="section section--has-toggle">
+                    <div class="collapsible collapsible--chevron collapsible--first" id="how-can-i-stop-my-friend-taking-lots-of-drugs">
+                        <div class="wrapper">
+                            <div class="row">
+                                <div class="col-12 col-md-7 offset-md-3 bordered">
+                                    <h2 class="h4">
+                                        <a role="button" href="#how-can-i-stop-my-friend-taking-lots-of-drugs" data-target="#how-can-i-stop-my-friend-taking-lots-of-drugs" class="collapsible__trigger" aria-expanded="false" aria-controls="section-how-can-i-stop-my-friend-taking-lots-of-drugs">How can I stop my friend taking lots of drugs?</a>
+                                    </h2>
+                                    <div class="collapsible__content" aria-hidden="true" id="section-how-can-i-stop-my-friend-taking-lots-of-drugs">
+                                        <div class="long-form ">
+                                            <p>You can’t force your friend to do anything they don’t want to do, but you still might be able to help.</p>
+                                            <p>Start by encouraging your friend to stay away from the places where they’d normally take drugs (like the pub or a mate’s house), and suggest other activities. </p>
+                                            <p>You can also remind your friend of the potential dangers involved in taking lots of drugs and tell them where they can get accurate information about what they’re using. 
+Whatever happens, make sure your friend knows you’re around and happy to talk – that you’re there to help and not judge.  </p>
+                                            <h3 id="what-should-i-do-">What should I do?</h3>
+                                            <p>Worrying about a friend’s drug use is stressful, and how you choose to deal with it is up to you. You might try to help your friend, you might decide to put up with it and not say much, or you might decide to step back and not offer much support. </p>
+                                            <p>There are pros and cons to each of these choices, and it’s essential you think of your own wellbeing when you decide on which approach to take. It may be that you need support and/or professional help yourself too.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section class="section section--has-toggle">
+                    <div class="collapsible collapsible--chevron collapsible--first" id="my-friend-took-drugs-once-will-they-become-an-addict">
+                        <div class="wrapper">
+                            <div class="row">
+                                <div class="col-12 col-md-7 offset-md-3 bordered">
+                                    <h2 class="h4">
+                                        <a role="button" href="#my-friend-took-drugs-once-will-they-become-an-addict" data-target="#my-friend-took-drugs-once-will-they-become-an-addict" class="collapsible__trigger" aria-expanded="false" aria-controls="section-my-friend-took-drugs-once-will-they-become-an-addict">My friend took drugs once, will they become an addict?</a>
+                                    </h2>
+                                    <div class="collapsible__content" aria-hidden="true" id="section-my-friend-took-drugs-once-will-they-become-an-addict">
+                                        <div class="long-form ">
+                                            <p>Most people only develop an addiction (or psychological dependence) after regularly taking a drug. It’s highly unlikely that anyone will develop an addiction after taking drugs once or twice – or from drinking once or twice.</p>
+                                            <p>Some signs that a person is getting addicted to alcohol or drugs are:</p>
+                                            <ul>
+                                                <li>they take the drug very regularly or drink very regularly </li>
+                                                <li>they take it despite trying to cut down or stop</li>
+                                                <li>they lie about how much they take or take it in secret </li>
+                                                <li>they keep taking it despite the harm it &#39;s causing </li>
+                                                <li>they drink or take drugs alone </li>
+                                                <li>they do extreme things to get the drug or alcohol – like stealing, getting into debt or faking symptoms to get prescription drugs</li>
+                                                <li>they do less of the things they enjoy, because the drugs or alcohol are getting in the way </li>
+                                            </ul>
+                                            <p>Remember that people who are addicted (or dependent) often don’t think they are, or don’t feel like they can admit it. </p>
+                                            <p>So if you think your friend has a problem and you want to help them, think about how you &#39;re going to approach the topic and what you’re going to say – as you don’t want to upset them. </p>
+                                            <p>And if they don’t listen to you at first, don’t be put off. Just give them some space and try again in a little while.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section class="section section--has-toggle">
+                    <div class="collapsible collapsible--chevron collapsible--first" id="will-my-friend-get-into-trouble">
+                        <div class="wrapper">
+                            <div class="row">
+                                <div class="col-12 col-md-7 offset-md-3 bordered">
+                                    <h2 class="h4">
+                                        <a role="button" href="#will-my-friend-get-into-trouble" data-target="#will-my-friend-get-into-trouble" class="collapsible__trigger" aria-expanded="false" aria-controls="section-will-my-friend-get-into-trouble">Will my friend get into trouble?</a>
+                                    </h2>
+                                    <div class="collapsible__content" aria-hidden="true" id="section-will-my-friend-get-into-trouble">
+                                        <div class="long-form ">
+                                            <p>If your friend needs medical help – either from a clinic or an ambulance – it’s essential that you tell the people helping everything you know about the drugs they’ve taken. </p>
+                                            <p>And if you have any drugs left, hand them over to the medics as it may help them understand the problem. </p>
+                                            <p>
+                                                <strong>They won &#39;t tell the police and you won’t get into trouble.</strong>
+                                            </p>
+                                            <p>If your friend is caught with drugs, they might get into trouble. They might get a warning, an arrest, a formal caution or a conviction. This will depend on the drugs they’re caught with and what they’re doing with them. </p>
+                                            <p>If your friend is caught with drugs at school or university they might get into trouble there too. Getting caught with drugs in school or uni can lead to suspension or expulsion, and to the police getting involved. </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section class="section section--has-toggle">
+                    <div class="collapsible collapsible--chevron collapsible--first" id="the-effects-of-drugs">
+                        <div class="wrapper">
+                            <div class="row">
+                                <div class="col-12 col-md-7 offset-md-3 bordered">
+                                    <h2 class="h4">
+                                        <a role="button" href="#the-effects-of-drugs" data-target="#the-effects-of-drugs" class="collapsible__trigger" aria-expanded="false" aria-controls="section-the-effects-of-drugs">The effects of drugs</a>
+                                    </h2>
+                                    <div class="collapsible__content" aria-hidden="true" id="section-the-effects-of-drugs">
+                                        <div class="long-form ">
+                                            <p>It’s hard to tell what the effects of taking drugs are. Most people who try drugs don’t keep on using – and some people take drugs regularly without developing a problem. </p>
+                                            <p>It all depends on who’s taking them, the person’s state of mind, which drug(s) they’re taking, what they’re mixing it with and where it’s being taken.</p>
+                                            <h3 id="physical-health-effects">Physical health effects</h3>
+                                            <p>Taking drugs can make users feel tired and run down. Sometimes people get more spots and colds too. If someone starts using drugs regularly, the harms can begin to build up resulting in long term health problems, such as liver, kidney and nerve damage.  </p>
+                                            <h3 id="mental-health-effects">Mental health effects</h3>
+                                            <p>Drug use can lead to people feeling unusually emotional with mood swings. Sometimes there can be serious mental health problems such as panic attacks and depression. Anybody with a family history of mental health issues should be especially careful when taking drugs as they may be more at risk themselves. </p>
+                                            <h3 id="overdose">Overdose</h3>
+                                            <p>Anyone can overdose from taking drugs, even if they are experienced at using drugs and think they know what they’re doing. Young people who are fit and healthy have died from a heart attack after taking drugs because of the toxic effects drugs can put on the body.</p>
+                                            <h3 id="acting-out-of-character-personal-safety">Acting out of character &amp;personal safety</h3>
+                                            <p>Some people take drugs because it makes them less inhibited – but this can have negative effects too. They might do things they wouldn’t normally do that they later regret, like having unprotected sex. If your friend is out of it or having a bad experience on drugs, they’ll be vulnerable and may need help and looking after.</p>
+                                            <h3 id="getting-into-debt">Getting into debt</h3>
+                                            <p>Some drugs aren’t necessarily expensive, but frequent use can still get people into debt and financial trouble.</p>
+                                            <p>
+                                                If you’re worried about the effects of a specific drug, take a look at the <a href="/drugs-a-z">drugs A-Z</a>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section class="section section--has-toggle">
+                    <div class="collapsible collapsible--chevron collapsible--first" id="my-friend-told-me-something-in-private-what-should-i-do">
+                        <div class="wrapper">
+                            <div class="row">
+                                <div class="col-12 col-md-7 offset-md-3 bordered">
+                                    <h2 class="h4">
+                                        <a role="button" href="#my-friend-told-me-something-in-private-what-should-i-do" data-target="#my-friend-told-me-something-in-private-what-should-i-do" class="collapsible__trigger" aria-expanded="false" aria-controls="section-my-friend-told-me-something-in-private-what-should-i-do">My friend told me something in private, what should I do?  </a>
+                                    </h2>
+                                    <div class="collapsible__content" aria-hidden="true" id="section-my-friend-told-me-something-in-private-what-should-i-do">
+                                        <div class="long-form ">
+                                            <p>It might be that your friend takes drugs to deal with a difficult situation, or block out something that’s happened in the past. </p>
+                                            <p>Your friend might have told you something very personal, which they don’t want you to repeat, but which is related to their drug use. </p>
+                                            <p>If this is the case, then you’ll probably need to get professional help for your friend – and you can do this without breaking your friend’s confidence by:</p>
+                                            <ul>
+                                                <li>
+                                                    <p>
+                                                        calling Frank anytime on <a href="tel:0300 123 6600">0300 123 6600</a>
+                                                        for confidential advice
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <p>
+                                                        contacting one of the young people’s and adult <a href="/get-help/find-support-near-you">drug treatment organisations</a>
+                                                        in your area 
+                                                    </p>
+                                                </li>
+                                            </ul>
+                                            <p>Remember, you don’t have to say what’s happened to your friend, just that your friend needs some help with managing their drugs use.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section class="accent accent--shallow">
+                    <div class="wrapper ">
+                        <div class="row">
+                            <div class="col-12 col-md-8 offset-md-3">
+                                <h2 class="h4 spacing-top--large">Related links</h2>
+                                <ul class="list-unstyled link-list link-list--spaced link-list--has-arrow">
+                                    <li class="link-list__item">
+                                        <a href="/get-help/dealing-with-peer-pressure" class="link-list__link">Feeling pressured to take drugs? Here are 10 ways to deal with it</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </main>
+            <footer class="footer">
+                <section class="footer__inner">
+                    <section class="navbar displaced-top">
+                        <ul class="navbar-nav" aria-hidden="false">
+                            <li class="nav-item has-icon elevated btn btn--primary">
+                                <a class="nav-link" aria-haspopup="false" href="tel:03001236600">
+                                    <span>
+                                        <img src="/ui/svg/telephone.svg" alt="" role="presentation"/>
+                                        <span class="visually-hidden">Telephone</span>
+                                    </span>
+                                    <span class="btn__text">0300 1236600</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </section>
+                    <section class="navbar navbar-expand navbar-raised">
+                        <ul class="navbar-nav" aria-hidden="false">
+                            <li class="nav-item">
+                                <a class="nav-link" aria-haspopup="false" href="/contact">Email FRANK</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" aria-haspopup="false" href="sms:82111">Text 82111</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" aria-haspopup="false" href="/get-help/find-support-near-you">Find a support centre</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" aria-haspopup="false" href="/feedback">Feedback</a>
+                            </li>
+                        </ul>
+                    </section>
+                    <hr class="hr hr--inverse"/>
+                    <section class="navbar navbar-expand navbar-muted">
+                        <ul class="navbar-nav" aria-hidden="false">
+                            <li class="nav-item">
+                                <a class="nav-link" aria-haspopup="false" href="/privacy-policy">Privacy policy</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" aria-haspopup="false" href="/cookie-policy">Cookie policy</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" aria-haspopup="false" href="/disclaimer">Disclaimer</a>
+                            </li>
+                        </ul>
+                    </section>
+                </section>
+            </footer>
+        </div>
+        <script>
+            window.$REDUX_STATE = {
+                "app": {
+                    "pageData": {
+                        "sys": {
+                            "space": {
+                                "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "ip74mqmfgvqf"
+                                }
+                            },
+                            "id": "41ryA3rnjWgqGAQ46EESqc",
+                            "type": "Entry",
+                            "createdAt": "2018-11-15T18:15:55.631Z",
+                            "updatedAt": "2018-11-28T21:04:01.630Z",
+                            "environment": {
+                                "sys": {
+                                    "id": "master",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                }
+                            },
+                            "revision": 5,
+                            "contentType": {
+                                "sys": {
+                                    "type": "Link",
+                                    "linkType": "ContentType",
+                                    "id": "generalPage"
+                                }
+                            },
+                            "locale": "en-US"
+                        },
+                        "fields": {
+                            "title": "Worried about a friend?",
+                            "slug": "get-help/worried-about-a-friend",
+                            "includeInSearch": true,
+                            "intro": "<p>Drugs can be a hard subject to discuss, especially if you think your friend or relative has a problem. </p>\n<p>Try to stay open-minded and remember that, with the right help and support, most people overcome their use before any serious harm is caused. Also, even if you do offer support, they might not change their behaviour. </p>\n<p>You or your friend can call FRANK anytime on <a href=\"tel:0300 123 6600\">0300 123 6600</a> for confidential advice.</p>\n",
+                            "body": "<p></p>",
+                            "contentExtra": [{
+                                "sys": {
+                                    "space": {
+                                        "sys": {
+                                            "type": "Link",
+                                            "linkType": "Space",
+                                            "id": "ip74mqmfgvqf"
+                                        }
+                                    },
+                                    "id": "YRZZx14pcAY4wmk06MOQw",
+                                    "type": "Entry",
+                                    "createdAt": "2018-11-15T18:22:54.477Z",
+                                    "updatedAt": "2018-11-29T15:31:50.399Z",
+                                    "environment": {
+                                        "sys": {
+                                            "id": "master",
+                                            "type": "Link",
+                                            "linkType": "Environment"
+                                        }
+                                    },
+                                    "revision": 4,
+                                    "contentType": {
+                                        "sys": {
+                                            "type": "Link",
+                                            "linkType": "ContentType",
+                                            "id": "collapsibleSection"
+                                        }
+                                    },
+                                    "locale": "en-US"
+                                },
+                                "fields": {
+                                    "title": "Why do people do drugs?",
+                                    "content": "<p>People take drugs for lots of reasons. Having a better idea of why your friend takes drugs will help you when you talk to them.</p>\n<h3 id=\"to-socialise\">To socialise</h3>\n<p>Some people take drugs occasionally to have fun, socialise and relax. Taking drugs might not become a problem for these people, and they’ll probably stop when they’re ready to. You can still remind your friend that some drugs are illegal and can affect their physical and mental health, especially if they’re still growing. </p>\n<h3 id=\"to-escape-\">To ‘escape’</h3>\n<p>Some people use drugs to escape difficult feelings that they&#39;re struggling to cope with. They might be depressed, anxious or insecure, and they might think the drugs are helping them - when they’re actually making things worse. If you think this is the case, talk calmly to your friend and look for ways to help them think about why they&#39;re using drugs and ways they can manage without them. If necessary, suggest that they look for professional help. </p>\n<h3 id=\"to-fit-in\">To fit in</h3>\n<p>Some people take drugs to fit in, or because they’re under pressure to do so by their friends. You could offer to do things with them that don’t involve using drugs.</p>\n<h3 id=\"to-experiment\">To experiment</h3>\n<p>Some people are just curious. They might try drugs once or twice to see what it’s like and then decide to leave it. Remember that most people who try drugs don’t continue using them.</p>\n"
+                                }
+                            }, {
+                                "sys": {
+                                    "space": {
+                                        "sys": {
+                                            "type": "Link",
+                                            "linkType": "Space",
+                                            "id": "ip74mqmfgvqf"
+                                        }
+                                    },
+                                    "id": "3KjZsc26RiuQ0oMccCcyW8",
+                                    "type": "Entry",
+                                    "createdAt": "2018-11-15T18:22:51.711Z",
+                                    "updatedAt": "2018-12-04T15:42:11.112Z",
+                                    "environment": {
+                                        "sys": {
+                                            "id": "master",
+                                            "type": "Link",
+                                            "linkType": "Environment"
+                                        }
+                                    },
+                                    "revision": 4,
+                                    "contentType": {
+                                        "sys": {
+                                            "type": "Link",
+                                            "linkType": "ContentType",
+                                            "id": "collapsibleSection"
+                                        }
+                                    },
+                                    "locale": "en-US"
+                                },
+                                "fields": {
+                                    "title": "How to talk to your friend about their drug use",
+                                    "toggleFancyList": false,
+                                    "content": "<p>Drugs can be a hard subject to discuss, especially if you think your friend has a problem. There’s no right or wrong way to talk about drugs, but there are some general guidelines you can follow to make things easier.</p>\n<p>Do speak to your friend:</p>\n<ul>\n<li>when you’re both sober and not on drugs</li>\n<li>somewhere private and familiar (your friend might become emotional) </li>\n<li>when you have plenty of time – it’s not a conversation you can rush</li>\n<li>more than once – you may need to have several conversations </li>\n</ul>\n<p>Don’t speak to your friend in a way that:</p>\n<ul>\n<li>is judgmental or critical – it won’t help</li>\n<li>doesn’t give them time to talk – try to speak less and listen more</li>\n<li>assumes superiority – don’t act like you know better (even if that’s what you think)</li>\n</ul>\n<p><strong>Remember that you or your friend can call FRANK anytime on <a href=\"tel:0300 123 6600\">0300 123 6600</a> for confidential advice.</strong></p>\n"
+                                }
+                            }, {
+                                "sys": {
+                                    "space": {
+                                        "sys": {
+                                            "type": "Link",
+                                            "linkType": "Space",
+                                            "id": "ip74mqmfgvqf"
+                                        }
+                                    },
+                                    "id": "Cu1TzgUDWSq0KWi2weM4S",
+                                    "type": "Entry",
+                                    "createdAt": "2018-11-15T18:22:53.392Z",
+                                    "updatedAt": "2018-11-27T20:43:32.138Z",
+                                    "environment": {
+                                        "sys": {
+                                            "id": "master",
+                                            "type": "Link",
+                                            "linkType": "Environment"
+                                        }
+                                    },
+                                    "revision": 3,
+                                    "contentType": {
+                                        "sys": {
+                                            "type": "Link",
+                                            "linkType": "ContentType",
+                                            "id": "collapsibleSection"
+                                        }
+                                    },
+                                    "locale": "en-US"
+                                },
+                                "fields": {
+                                    "title": "How can I stop my friend taking lots of drugs?",
+                                    "content": "<p>You can’t force your friend to do anything they don’t want to do, but you still might be able to help.</p>\n<p>Start by encouraging your friend to stay away from the places where they’d normally take drugs (like the pub or a mate’s house), and suggest other activities. </p>\n<p>You can also remind your friend of the potential dangers involved in taking lots of drugs and tell them where they can get accurate information about what they’re using. \nWhatever happens, make sure your friend knows you’re around and happy to talk – that you’re there to help and not judge.  </p>\n<h3 id=\"what-should-i-do-\">What should I do?</h3>\n<p>Worrying about a friend’s drug use is stressful, and how you choose to deal with it is up to you. You might try to help your friend, you might decide to put up with it and not say much, or you might decide to step back and not offer much support. </p>\n<p>There are pros and cons to each of these choices, and it’s essential you think of your own wellbeing when you decide on which approach to take. It may be that you need support and/or professional help yourself too.</p>\n"
+                                }
+                            }, {
+                                "sys": {
+                                    "space": {
+                                        "sys": {
+                                            "type": "Link",
+                                            "linkType": "Space",
+                                            "id": "ip74mqmfgvqf"
+                                        }
+                                    },
+                                    "id": "5LyAwlFdJKAgC0oOi4am2I",
+                                    "type": "Entry",
+                                    "createdAt": "2018-11-15T18:22:52.787Z",
+                                    "updatedAt": "2018-11-29T15:27:42.086Z",
+                                    "environment": {
+                                        "sys": {
+                                            "id": "master",
+                                            "type": "Link",
+                                            "linkType": "Environment"
+                                        }
+                                    },
+                                    "revision": 4,
+                                    "contentType": {
+                                        "sys": {
+                                            "type": "Link",
+                                            "linkType": "ContentType",
+                                            "id": "collapsibleSection"
+                                        }
+                                    },
+                                    "locale": "en-US"
+                                },
+                                "fields": {
+                                    "title": "My friend took drugs once, will they become an addict?",
+                                    "toggleFancyList": false,
+                                    "content": "<p>Most people only develop an addiction (or psychological dependence) after regularly taking a drug. It’s highly unlikely that anyone will develop an addiction after taking drugs once or twice – or from drinking once or twice.</p>\n<p>Some signs that a person is getting addicted to alcohol or drugs are:</p>\n<ul>\n<li>they take the drug very regularly or drink very regularly </li>\n<li>they take it despite trying to cut down or stop</li>\n<li>they lie about how much they take or take it in secret </li>\n<li>they keep taking it despite the harm it&#39;s causing </li>\n<li>they drink or take drugs alone </li>\n<li>they do extreme things to get the drug or alcohol – like stealing, getting into debt or faking symptoms to get prescription drugs</li>\n<li>they do less of the things they enjoy, because the drugs or alcohol are getting in the way </li>\n</ul>\n<p>Remember that people who are addicted (or dependent) often don’t think they are, or don’t feel like they can admit it. </p>\n<p>So if you think your friend has a problem and you want to help them, think about how you&#39;re going to approach the topic and what you’re going to say – as you don’t want to upset them. </p>\n<p>And if they don’t listen to you at first, don’t be put off. Just give them some space and try again in a little while.</p>\n"
+                                }
+                            }, {
+                                "sys": {
+                                    "space": {
+                                        "sys": {
+                                            "type": "Link",
+                                            "linkType": "Space",
+                                            "id": "ip74mqmfgvqf"
+                                        }
+                                    },
+                                    "id": "1I0qMmkkWoGA0CwyoQ0M8c",
+                                    "type": "Entry",
+                                    "createdAt": "2018-11-15T18:22:52.192Z",
+                                    "updatedAt": "2018-11-27T20:44:24.932Z",
+                                    "environment": {
+                                        "sys": {
+                                            "id": "master",
+                                            "type": "Link",
+                                            "linkType": "Environment"
+                                        }
+                                    },
+                                    "revision": 3,
+                                    "contentType": {
+                                        "sys": {
+                                            "type": "Link",
+                                            "linkType": "ContentType",
+                                            "id": "collapsibleSection"
+                                        }
+                                    },
+                                    "locale": "en-US"
+                                },
+                                "fields": {
+                                    "title": "Will my friend get into trouble?",
+                                    "content": "<p>If your friend needs medical help – either from a clinic or an ambulance – it’s essential that you tell the people helping everything you know about the drugs they’ve taken. </p>\n<p>And if you have any drugs left, hand them over to the medics as it may help them understand the problem. </p>\n<p><strong>They won&#39;t tell the police and you won’t get into trouble.</strong></p>\n<p>If your friend is caught with drugs, they might get into trouble. They might get a warning, an arrest, a formal caution or a conviction. This will depend on the drugs they’re caught with and what they’re doing with them. </p>\n<p>If your friend is caught with drugs at school or university they might get into trouble there too. Getting caught with drugs in school or uni can lead to suspension or expulsion, and to the police getting involved. </p>\n"
+                                }
+                            }, {
+                                "sys": {
+                                    "space": {
+                                        "sys": {
+                                            "type": "Link",
+                                            "linkType": "Space",
+                                            "id": "ip74mqmfgvqf"
+                                        }
+                                    },
+                                    "id": "2DDq9sULQQeIIsqe6wayQ6",
+                                    "type": "Entry",
+                                    "createdAt": "2018-11-15T18:22:53.964Z",
+                                    "updatedAt": "2018-11-27T20:44:53.034Z",
+                                    "environment": {
+                                        "sys": {
+                                            "id": "master",
+                                            "type": "Link",
+                                            "linkType": "Environment"
+                                        }
+                                    },
+                                    "revision": 3,
+                                    "contentType": {
+                                        "sys": {
+                                            "type": "Link",
+                                            "linkType": "ContentType",
+                                            "id": "collapsibleSection"
+                                        }
+                                    },
+                                    "locale": "en-US"
+                                },
+                                "fields": {
+                                    "title": "The effects of drugs",
+                                    "content": "<p>It’s hard to tell what the effects of taking drugs are. Most people who try drugs don’t keep on using – and some people take drugs regularly without developing a problem. </p>\n<p>It all depends on who’s taking them, the person’s state of mind, which drug(s) they’re taking, what they’re mixing it with and where it’s being taken.</p>\n<h3 id=\"physical-health-effects\">Physical health effects</h3>\n<p>Taking drugs can make users feel tired and run down. Sometimes people get more spots and colds too. If someone starts using drugs regularly, the harms can begin to build up resulting in long term health problems, such as liver, kidney and nerve damage.  </p>\n<h3 id=\"mental-health-effects\">Mental health effects</h3>\n<p>Drug use can lead to people feeling unusually emotional with mood swings. Sometimes there can be serious mental health problems such as panic attacks and depression. Anybody with a family history of mental health issues should be especially careful when taking drugs as they may be more at risk themselves. </p>\n<h3 id=\"overdose\">Overdose</h3>\n<p>Anyone can overdose from taking drugs, even if they are experienced at using drugs and think they know what they’re doing. Young people who are fit and healthy have died from a heart attack after taking drugs because of the toxic effects drugs can put on the body.</p>\n<h3 id=\"acting-out-of-character-personal-safety\">Acting out of character &amp; personal safety</h3>\n<p>Some people take drugs because it makes them less inhibited – but this can have negative effects too. They might do things they wouldn’t normally do that they later regret, like having unprotected sex. If your friend is out of it or having a bad experience on drugs, they’ll be vulnerable and may need help and looking after.</p>\n<h3 id=\"getting-into-debt\">Getting into debt</h3>\n<p>Some drugs aren’t necessarily expensive, but frequent use can still get people into debt and financial trouble.</p>\n<p>If you’re worried about the effects of a specific drug, take a look at the <a href=\"/drugs-a-z\">drugs A-Z</a></p>\n"
+                                }
+                            }, {
+                                "sys": {
+                                    "space": {
+                                        "sys": {
+                                            "type": "Link",
+                                            "linkType": "Space",
+                                            "id": "ip74mqmfgvqf"
+                                        }
+                                    },
+                                    "id": "3GMqjeRJOwku04mQ600iEE",
+                                    "type": "Entry",
+                                    "createdAt": "2018-11-26T19:49:31.777Z",
+                                    "updatedAt": "2019-03-20T16:51:16.394Z",
+                                    "environment": {
+                                        "sys": {
+                                            "id": "master",
+                                            "type": "Link",
+                                            "linkType": "Environment"
+                                        }
+                                    },
+                                    "revision": 3,
+                                    "contentType": {
+                                        "sys": {
+                                            "type": "Link",
+                                            "linkType": "ContentType",
+                                            "id": "collapsibleSection"
+                                        }
+                                    },
+                                    "locale": "en-US"
+                                },
+                                "fields": {
+                                    "title": "My friend told me something in private, what should I do?  ",
+                                    "content": "<p>It might be that your friend takes drugs to deal with a difficult situation, or block out something that’s happened in the past. </p>\n<p>Your friend might have told you something very personal, which they don’t want you to repeat, but which is related to their drug use. </p>\n<p>If this is the case, then you’ll probably need to get professional help for your friend – and you can do this without breaking your friend’s confidence by:</p>\n<ul>\n<li><p>calling Frank anytime on <a href=\"tel:0300 123 6600\">0300 123 6600</a> for confidential advice</p>\n</li>\n<li><p>contacting one of the young people’s and adult <a href=\"/get-help/find-support-near-you\">drug treatment organisations</a> in your area </p>\n</li>\n</ul>\n<p>Remember, you don’t have to say what’s happened to your friend, just that your friend needs some help with managing their drugs use.</p>\n"
+                                }
+                            }],
+                            "relatedLinks": [{
+                                "sys": {
+                                    "space": {
+                                        "sys": {
+                                            "type": "Link",
+                                            "linkType": "Space",
+                                            "id": "ip74mqmfgvqf"
+                                        }
+                                    },
+                                    "id": "z5x8gCzrxeyOwu4u6s8yS",
+                                    "type": "Entry",
+                                    "createdAt": "2018-11-15T18:23:18.465Z",
+                                    "updatedAt": "2018-11-28T21:03:58.765Z",
+                                    "environment": {
+                                        "sys": {
+                                            "id": "master",
+                                            "type": "Link",
+                                            "linkType": "Environment"
+                                        }
+                                    },
+                                    "revision": 10,
+                                    "contentType": {
+                                        "sys": {
+                                            "type": "Link",
+                                            "linkType": "ContentType",
+                                            "id": "generalPage"
+                                        }
+                                    },
+                                    "locale": "en-US"
+                                },
+                                "fields": {
+                                    "title": "Feeling pressured to take drugs? Here are 10 ways to deal with it",
+                                    "slug": "get-help/dealing-with-peer-pressure",
+                                    "includeInSearch": true,
+                                    "indentedText": false,
+                                    "body": {
+                                        "data": {},
+                                        "content": [{
+                                            "data": {},
+                                            "content": [{
+                                                "data": {},
+                                                "content": [{
+                                                    "data": {},
+                                                    "content": [{
+                                                        "data": {},
+                                                        "marks": [],
+                                                        "value": "Remember that you’re not alone. It’s easy to think you’re the only one who’s not tried drugs but, actually, most young people don’t take drugs.",
+                                                        "nodeType": "text"
+                                                    }],
+                                                    "nodeType": "paragraph"
+                                                }],
+                                                "nodeType": "list-item"
+                                            }, {
+                                                "data": {},
+                                                "content": [{
+                                                    "data": {},
+                                                    "content": [{
+                                                        "data": {},
+                                                        "marks": [],
+                                                        "value": "Work out where you stand on issues like sex, drugs and alcohol. Knowing your own mind makes it easier to stay true to yourself.",
+                                                        "nodeType": "text"
+                                                    }],
+                                                    "nodeType": "paragraph"
+                                                }],
+                                                "nodeType": "list-item"
+                                            }, {
+                                                "data": {},
+                                                "content": [{
+                                                    "data": {},
+                                                    "content": [{
+                                                        "data": {},
+                                                        "marks": [],
+                                                        "value": "Prepare yourself. Think about how you’d like to respond when someone offers you drugs so you know what to say. ",
+                                                        "nodeType": "text"
+                                                    }],
+                                                    "nodeType": "paragraph"
+                                                }],
+                                                "nodeType": "list-item"
+                                            }, {
+                                                "data": {},
+                                                "content": [{
+                                                    "data": {},
+                                                    "content": [{
+                                                        "data": {},
+                                                        "marks": [],
+                                                        "value": "Try to understand who’s offering you the drugs and why. Friends should understand if you say no, people you don’t know you very well may expect something in return.",
+                                                        "nodeType": "text"
+                                                    }],
+                                                    "nodeType": "paragraph"
+                                                }],
+                                                "nodeType": "list-item"
+                                            }, {
+                                                "data": {},
+                                                "content": [{
+                                                    "data": {},
+                                                    "content": [{
+                                                        "data": {},
+                                                        "marks": [],
+                                                        "value": "Say no firmly but clearly and without making a big deal about it. If they try to persuade you, don’t feel like you have to change your mind.",
+                                                        "nodeType": "text"
+                                                    }],
+                                                    "nodeType": "paragraph"
+                                                }],
+                                                "nodeType": "list-item"
+                                            }, {
+                                                "data": {},
+                                                "content": [{
+                                                    "data": {},
+                                                    "content": [{
+                                                        "data": {},
+                                                        "marks": [],
+                                                        "value": "Remember that, although they may not show it, your mates will respect you more if you’re assertive and clear about what you do and don’t want to do.",
+                                                        "nodeType": "text"
+                                                    }],
+                                                    "nodeType": "paragraph"
+                                                }],
+                                                "nodeType": "list-item"
+                                            }, {
+                                                "data": {},
+                                                "content": [{
+                                                    "data": {},
+                                                    "content": [{
+                                                        "data": {},
+                                                        "marks": [],
+                                                        "value": "Take a look around. You’ll soon see that you’re not the only one worrying about what other people think of you. Try to focus on your own opinion of yourself - in the end, that’s all that matters.",
+                                                        "nodeType": "text"
+                                                    }],
+                                                    "nodeType": "paragraph"
+                                                }],
+                                                "nodeType": "list-item"
+                                            }, {
+                                                "data": {},
+                                                "content": [{
+                                                    "data": {},
+                                                    "content": [{
+                                                        "data": {},
+                                                        "marks": [],
+                                                        "value": "",
+                                                        "nodeType": "text"
+                                                    }, {
+                                                        "data": {
+                                                            "uri": "/get-help/worried-about-a-friend"
+                                                        },
+                                                        "content": [{
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "Worried about your mates",
+                                                            "nodeType": "text"
+                                                        }],
+                                                        "nodeType": "hyperlink"
+                                                    }, {
+                                                        "data": {},
+                                                        "marks": [],
+                                                        "value": " being pressured? Don’t keep it to yourself, talk to them, or someone you trust.",
+                                                        "nodeType": "text"
+                                                    }],
+                                                    "nodeType": "paragraph"
+                                                }],
+                                                "nodeType": "list-item"
+                                            }, {
+                                                "data": {},
+                                                "content": [{
+                                                    "data": {},
+                                                    "content": [{
+                                                        "data": {},
+                                                        "marks": [],
+                                                        "value": "If you’re finding it hard to be yourself within your group, take a step back, and think about whether it’s time to find a new crowd to hang out with.",
+                                                        "nodeType": "text"
+                                                    }],
+                                                    "nodeType": "paragraph"
+                                                }],
+                                                "nodeType": "list-item"
+                                            }, {
+                                                "data": {},
+                                                "content": [{
+                                                    "data": {},
+                                                    "content": [{
+                                                        "data": {},
+                                                        "marks": [],
+                                                        "value": "Before trying anything new it makes sense to know what’s what. You can find out more about different drugs on the ",
+                                                        "nodeType": "text"
+                                                    }, {
+                                                        "data": {
+                                                            "uri": "/drugs-a-z"
+                                                        },
+                                                        "content": [{
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "Drugs A to Z",
+                                                            "nodeType": "text"
+                                                        }],
+                                                        "nodeType": "hyperlink"
+                                                    }, {
+                                                        "data": {},
+                                                        "marks": [{
+                                                            "type": "bold"
+                                                        }],
+                                                        "value": " ",
+                                                        "nodeType": "text"
+                                                    }, {
+                                                        "data": {},
+                                                        "marks": [],
+                                                        "value": "or call FRANK on",
+                                                        "nodeType": "text"
+                                                    }, {
+                                                        "data": {},
+                                                        "marks": [{
+                                                            "type": "bold"
+                                                        }],
+                                                        "value": " ",
+                                                        "nodeType": "text"
+                                                    }, {
+                                                        "data": {
+                                                            "uri": "tel:03001236600"
+                                                        },
+                                                        "content": [{
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "0300 123 6600",
+                                                            "nodeType": "text"
+                                                        }],
+                                                        "nodeType": "hyperlink"
+                                                    }, {
+                                                        "data": {},
+                                                        "marks": [],
+                                                        "value": " at any time, day or night. ",
+                                                        "nodeType": "text"
+                                                    }],
+                                                    "nodeType": "paragraph"
+                                                }],
+                                                "nodeType": "list-item"
+                                            }],
+                                            "nodeType": "ordered-list"
+                                        }, {
+                                            "data": {},
+                                            "content": [{
+                                                "data": {},
+                                                "marks": [],
+                                                "value": "",
+                                                "nodeType": "text"
+                                            }],
+                                            "nodeType": "paragraph"
+                                        }],
+                                        "nodeType": "document"
+                                    },
+                                    "relatedLinks": [{
+                                        "sys": {
+                                            "type": "Link",
+                                            "linkType": "Entry",
+                                            "id": "4dU99mpByEqSwUsiKokyuM"
+                                        }
+                                    }]
+                                }
+                            }],
+                            "pageTitle": "How to help a friend",
+                            "metaDescription": "If you think your friend has a problem with drugs, get advice and support on how you can help them. Find out more online."
+                        },
+                        "date": "2018-11-28T21:04:01.630Z",
+                        "dateFormatted": "28th Nov 2018",
+                        "head": {
+                            "pageTitle": "How to help a friend",
+                            "title": "Worried about a friend?",
+                            "description": "If you think your friend has a problem with drugs, get advice and support on how you can help them. Find out more online.",
+                            "image": false
+                        }
+                    },
+                    "featuredBlockData": {},
+                    "relatedContent": {
+                        "list": [],
+                        "relatedContentReadyStatus": "REQUEST_RELATED_CONTENT_STATUS_INVALID"
+                    },
+                    "siteSettings": {
+                        "sys": {
+                            "space": {
+                                "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "ip74mqmfgvqf"
+                                }
+                            },
+                            "id": "2y6TnQpEwrwP9UaOdJdQRM",
+                            "type": "Entry",
+                            "createdAt": "2019-03-21T10:54:39.690Z",
+                            "updatedAt": "2019-03-21T10:54:39.690Z",
+                            "environment": {
+                                "sys": {
+                                    "id": "master",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                }
+                            },
+                            "revision": 1,
+                            "contentType": {
+                                "sys": {
+                                    "type": "Link",
+                                    "linkType": "ContentType",
+                                    "id": "siteSettings"
+                                }
+                            },
+                            "locale": "en-US"
+                        },
+                        "fields": {
+                            "page": "Sitewide settings",
+                            "slug": "<global>"
+                        }
+                    },
+                    "loading": false,
+                    "error": false
+                }
+            }
+        </script>
+        <script src="/ui/js/vendor/object-assign-polyfill.js"></script>
+        <script src="/ui/js/vendor/promise.polyfill.min.js"></script>
+        <script src="/ui/js/client.bundle.js?v=1553769803062"></script>
+    </body>
+</html>
